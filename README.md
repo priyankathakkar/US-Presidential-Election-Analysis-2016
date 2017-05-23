@@ -1,4 +1,4 @@
-# US-Presidential-Election-Analysis-2016
+# US-Presidential-Election-Analysis-2016 using Hadoop Technologies
 
 Following are the steps taken in our Project -  Twitter Data.
 
